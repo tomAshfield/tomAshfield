@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomAshfield
-- 👀 I’m interested in problem solving 
-- 🌱 I’m currently a senior computer science major at the University of Delaware
-- 💞️ I’m looking to collaborate on company level projects to hone my skills as a programmer
+- 👀 I’m interested in full stack web/application development
+- 🌱 COLLEGE GRAD BABY!!! @UDCIS
+- 💞️ Looking for a job that can lead me in the direction of full stack development
 - 📫 You can email me at tashfield715@gmail.com
 
 <!---
